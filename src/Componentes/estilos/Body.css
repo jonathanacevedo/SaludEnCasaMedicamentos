@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  height: 100%;
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.BodyPrincipal {
+  height: 550px;
+  width: 70%;
+  padding: 20px;
+  margin: auto;
+  color:#5AB7DE;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+

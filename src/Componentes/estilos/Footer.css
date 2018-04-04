@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.Footer {
+  background-color: #434547;
+  width: 100%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 0.8em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.footerLogo{
+    height: 50px;
+}
+
+.App-intro {
+  font-size: large;
+}
+

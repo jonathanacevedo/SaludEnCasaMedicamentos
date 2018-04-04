@@ -1,0 +1,133 @@
+.App {
+    text-align: center;
+}
+  
+.banner{
+   height: 35%;
+   width: 25%;
+   padding: 20px;
+}
+
+.titulo{
+    text-align: center;
+    color: #5AB7DE;
+    font-size: 1.8em;
+}
+
+.icono {
+    padding-top: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('../fuentes/Kiona-Regular.ttf');
+}
+
+<<<<<<< HEAD
+.container1Desk {
+=======
+.container1 {
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+    text-align: center;
+    background-color: #45aeda;
+    width: 300px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+<<<<<<< HEAD
+
+.container1Phone {
+    text-align: center;
+    background-color: #45aeda;
+    width: 100px;
+    height: 70px;
+    padding-bottom: 40px;
+}
+
+.container1Tablet {
+    text-align: center;
+    background-color: #45aeda;
+    width: 220px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+.container2Desk {
+=======
+.container2 {
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+    text-align: center;
+    background-color: #5AB7DE;
+    width: 300px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+<<<<<<< HEAD
+
+.container2Phone {
+    text-align: center;
+    background-color: #45aeda;
+    width: 100pxpx;
+    height: 70px;
+    padding-bottom: 40px;
+}
+
+.container2Tablet {
+    text-align: center;
+    background-color: #45aeda;
+    width: 220px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+
+.container3Desk {
+=======
+.container3 {
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+    text-align: center;
+    background-color: #45aeda;
+    width: 300px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+<<<<<<< HEAD
+
+
+.container3Phone {
+    text-align: center;
+    background-color: #45aeda;
+    width: 100px;
+   height: 70px;
+    padding-bottom: 40px;
+}
+
+.container3Tablet {
+    text-align: center;
+    background-color: #45aeda;
+    width: 220px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+=======
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+.tabla{
+    padding-bottom: 80px;
+}
+.textoContainer {
+    color: #FFFFFF;
+    font-family: myFirstFont;
+<<<<<<< HEAD
+    font-size: 70%;
+    padding-right: 20px;
+    padding-left: 2px;
+=======
+    padding-right: 20px;
+    padding-left: 10px;
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+}

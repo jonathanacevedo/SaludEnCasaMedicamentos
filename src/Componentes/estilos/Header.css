@@ -1,0 +1,226 @@
+.App {
+  text-align: center;
+}
+
+<<<<<<< HEAD
+.lineaPhone{
+  height: 10px;
+  padding: 18px;
+  list-style: none;
+  background-color: #434547;
+  padding-left: 200px;
+  color: #FFFFFF;
+  text-align: left;
+  padding-right: 10px;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.lineaDesk{
+=======
+.linea{
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+  height: 10px;
+  padding: 18px;
+  list-style: none;
+  background-color: #434547;
+  padding-left: 200px;
+  color: #FFFFFF;
+  text-align: right;
+<<<<<<< HEAD
+  padding-right: 40px;
+  box-shadow: 10px 5px 5px grey;
+}
+.lineaTablet{
+  height: 10px;
+  padding: 18px;
+  list-style: none;
+  background-color: #434547;
+  padding-left: 200px;
+  color: #FFFFFF;
+  text-align: right;
+  padding-right: 40px;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.lineaPhone a{
+  font-size: 11px;
+  padding-left: 1px;
+}
+
+.lineaDesk a{
+  font-size: 16px;
+  padding-right: 10px;
+}
+.lineaTablet a{
+  font-size: 14px;
+  padding-right: 10px;
+}
+=======
+  padding-right: 80px;
+  box-shadow: 10px 5px 5px grey;
+}
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+
+.boton{
+  padding: 6px 10px;
+  border: none;
+  height: 100%;
+  background: none;
+  color: #FFFFFF;
+  font-size: 1.2em;
+  transition-duration: 0.5s;
+  cursor: pointer;
+}
+
+.sobre:hover {
+  box-shadow: 5px 5px 0px 0 #FFFFFF,0 17px 50px 0 rgba(245, 245, 245, 0.19);
+}
+
+<<<<<<< HEAD
+.menuPhone {
+  height: 30px;
+  border: none;
+  padding: 5px;
+  list-style: none;
+  background-color: #434547;
+  text-align: center;
+  padding-left: 20px;
+  color: #FFFFFF;
+}
+
+.menuDesk {
+=======
+.menu {
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+  height: 30px;
+  border: none;
+  padding: 15px;
+  list-style: none;
+  background-color: #434547;
+<<<<<<< HEAD
+  text-align: center;
+  padding-left: 80px;
+  color: #FFFFFF;
+}
+
+.menuTablet {
+  height: 30px;
+  border: none;
+  padding: 5px;
+  list-style: none;
+  background-color: #434547;
+  text-align: center;
+  padding-left: 120px;
+  color: #FFFFFF;
+}
+
+
+
+=======
+  text-align: left;
+  padding-left: 200px;
+  color: #FFFFFF;
+}
+
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+.titulo{
+  text-align: left;
+  padding-left: 20px;
+  font-size: 2.5em;
+}
+
+.subtitulo{
+  text-align: left;
+  color: #434547;
+  font-size: 1em;
+}
+
+<<<<<<< HEAD
+.menuPhone li{
+  display: inline-block;
+  font-size: 0.5em;
+  padding-right: 1px;
+  padding-left: 1px;
+  border-left: 2px solid #FFFFFF;
+}
+
+
+.menuDesk li{
+=======
+.menu li{
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+  display: inline-block;
+  font-size: 0.85em;
+  padding-right: 18px;
+  padding-left: 18px;
+  border-left: 2px solid #FFFFFF;
+}
+
+<<<<<<< HEAD
+
+.menuTablet li{
+  display: inline-block;
+  font-size: 0.80em;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-left: 2px solid #FFFFFF;
+}
+
+
+
+=======
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+.Header {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  color: #5AB7DE;
+}
+
+<<<<<<< HEAD
+.logoDesk{
+  width: 100px;
+}
+
+
+.logoPhone{
+  width: 35px;
+}
+
+
+.logoTablet{
+  width: 60px;
+}
+
+.loginLogoDesk{
+  width: 20px;
+  padding-right: 10px;
+}
+
+.loginLogoPhone{
+  width: 12px;
+  padding-right: 10px;
+}
+
+.loginLogoTablet{
+  width: 15px;
+  padding-right: 10px;
+}
+
+=======
+.logo{
+  width: 100px;
+}
+
+.loginLogo{
+  width: 20px;
+  padding-right: 10px;
+}
+>>>>>>> 10cc263e39c0c884f1b8a3cfbcfd0a69b519fba3
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
