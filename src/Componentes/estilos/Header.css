@@ -1,0 +1,195 @@
+.App {
+  text-align: center;
+}
+.lineaPhone{
+  height: 10px;
+  padding: 18px;
+  list-style: none;
+  background-color: #434547;
+  padding-left: 200px;
+  color: #FFFFFF;
+  text-align: left;
+  padding-right: 10px;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.lineaDesk{
+  height: 10px;
+  padding: 18px;
+  list-style: none;
+  background-color: #434547;
+  padding-left: 200px;
+  color: #FFFFFF;
+  text-align: right;
+  padding-right: 40px;
+  box-shadow: 10px 5px 5px grey;
+}
+.lineaTablet{
+  height: 10px;
+  padding: 18px;
+  list-style: none;
+  background-color: #434547;
+  padding-left: 200px;
+  color: #FFFFFF;
+  text-align: right;
+  padding-right: 40px;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.lineaPhone a{
+  font-size: 11px;
+  padding-left: 1px;
+}
+
+.lineaDesk a{
+  font-size: 16px;
+  padding-right: 10px;
+}
+.lineaTablet a{
+  font-size: 14px;
+  padding-right: 10px;
+}
+
+.boton{
+  padding: 6px 10px;
+  border: none;
+  height: 100%;
+  background: none;
+  color: #FFFFFF;
+  font-size: 1.2em;
+  transition-duration: 0.5s;
+  cursor: pointer;
+}
+
+.sobre:hover {
+  box-shadow: 5px 5px 0px 0 #FFFFFF,0 17px 50px 0 rgba(245, 245, 245, 0.19);
+}
+
+.menuPhone {
+  height: 30px;
+  border: none;
+  padding: 5px;
+  list-style: none;
+  background-color: #434547;
+  text-align: center;
+  padding-left: 20px;
+  color: #FFFFFF;
+}
+
+.menuDesk {
+  height: 30px;
+  border: none;
+  padding: 15px;
+  list-style: none;
+  background-color: #434547;
+  text-align: center;
+  padding-left: 80px;
+  color: #FFFFFF;
+}
+
+.menuTablet {
+  height: 30px;
+  border: none;
+  padding: 5px;
+  list-style: none;
+  background-color: #434547;
+  text-align: center;
+  padding-left: 120px;
+  color: #FFFFFF;
+}
+
+
+
+
+
+.titulo{
+  text-align: left;
+  padding-left: 20px;
+  font-size: 2.5em;
+}
+
+.subtitulo{
+  text-align: left;
+  color: #434547;
+  font-size: 1em;
+}
+
+.menuPhone li{
+  display: inline-block;
+  font-size: 0.5em;
+  padding-right: 1px;
+  padding-left: 1px;
+  border-left: 2px solid #FFFFFF;
+}
+
+
+.menuDesk li{
+  display: inline-block;
+  font-size: 0.85em;
+  padding-right: 18px;
+  padding-left: 18px;
+  border-left: 2px solid #FFFFFF;
+}
+
+
+.menuTablet li{
+  display: inline-block;
+  font-size: 0.80em;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-left: 2px solid #FFFFFF;
+}
+
+
+
+.Header {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  color: #5AB7DE;
+}
+
+.logoDesk{
+  width: 100px;
+}
+
+
+.logoPhone{
+  width: 35px;
+}
+
+
+.logoTablet{
+  width: 60px;
+}
+
+.loginLogoDesk{
+  width: 20px;
+  padding-right: 10px;
+}
+
+.loginLogoPhone{
+  width: 12px;
+  padding-right: 10px;
+}
+
+.loginLogoTablet{
+  width: 15px;
+  padding-right: 10px;
+}
+
+.logo{
+  width: 100px;
+}
+
+.loginLogo{
+  width: 20px;
+  padding-right: 10px;
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}

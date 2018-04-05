@@ -1,0 +1,115 @@
+.App {
+    text-align: center;
+}
+  
+.banner{
+   height: 35%;
+   width: 25%;
+   padding: 20px;
+}
+
+.titulo{
+    text-align: center;
+    color: #5AB7DE;
+    font-size: 1.8em;
+}
+
+.icono {
+    padding-top: 20px;
+    height: 10%;
+    width: 10%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('../fuentes/Kiona-Regular.ttf');
+}
+
+.container1Desk {
+    text-align: center;
+    background-color: #45aeda;
+    width: 300px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+
+.container1Phone {
+    text-align: center;
+    background-color: #45aeda;
+    width: 100px;
+    height: 70px;
+    padding-bottom: 40px;
+}
+
+.container1Tablet {
+    text-align: center;
+    background-color: #45aeda;
+    width: 220px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+.container2Desk {
+    text-align: center;
+    background-color: #5AB7DE;
+    width: 300px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+
+.container2Phone {
+    text-align: center;
+    background-color: #45aeda;
+    width: 100pxpx;
+    height: 70px;
+    padding-bottom: 40px;
+}
+
+.container2Tablet {
+    text-align: center;
+    background-color: #45aeda;
+    width: 220px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+
+.container3Desk {
+    text-align: center;
+    background-color: #45aeda;
+    width: 300px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+
+.container3Phone {
+    text-align: center;
+    background-color: #45aeda;
+    width: 100px;
+   height: 70px;
+    padding-bottom: 40px;
+}
+
+.container3Tablet {
+    text-align: center;
+    background-color: #45aeda;
+    width: 220px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+.tabla{
+    padding-bottom: 80px;
+}
+.textoContainer {
+    color: #FFFFFF;
+    font-family: myFirstFont;
+    font-size: 70%;
+    padding-right: 20px;
+    padding-left: 2px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
